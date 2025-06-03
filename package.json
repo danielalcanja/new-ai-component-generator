@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "packageManager": "pnpm@9.0",
   "dependencies": {
     "@ai-sdk/anthropic": "latest",
     "@hookform/resolvers": "^3.9.1",
